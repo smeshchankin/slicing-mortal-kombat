@@ -42,5 +42,6 @@ a {
 .app {
     background:
         linear-gradient(90deg, #010202 -2.88%, rgba(1, 2, 2, 0.2) 44.9%),
-        url("../img/cover.jpg");
+        url("../img/cover.jpg") no-repeat top right;
+    min-height: 100vh;
 }
