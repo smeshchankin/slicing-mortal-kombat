@@ -9,6 +9,7 @@ body {
 
 a {
     text-decoration: none;
+    color: #FFF;
 }
 
 .header {
@@ -26,7 +27,6 @@ a {
 }
 
 .user-name {
-    color: #FFF;
     font-size: 16px;
     line-height: 20px;
 
@@ -44,4 +44,5 @@ a {
         linear-gradient(90deg, #010202 -2.88%, rgba(1, 2, 2, 0.2) 44.9%),
         url("../img/cover.jpg") no-repeat top right;
     min-height: 100vh;
+    color: #FFF;
 }
