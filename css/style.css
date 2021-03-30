@@ -46,3 +46,37 @@ a {
     min-height: 100vh;
     color: #FFF;
 }
+
+.film {
+    max-width: 1146px;
+    margin: auto;
+    padding: 7% 0;
+}
+
+.tags {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    opacity: 0.4;
+    color: #E5E5E5;
+    font-size: 16px;
+    line-height: 140%;
+}
+
+.tags > * {
+    margin-right: 15px;
+}
+
+.age {
+    border: 1px solid #FFF;
+    box-sizing: border-box;
+    border-radius: 2px;
+    padding: 1px 5px;
+}
+
+.description {
+    max-width: 460px;
+    font-size: 21px;
+    line-height: 140%;
+    margin-bottom: 36px;
+}
