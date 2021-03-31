@@ -80,3 +80,24 @@ a {
     line-height: 140%;
     margin-bottom: 36px;
 }
+
+.button {
+    padding: 11px 26px;
+    border-radius: 6px;
+    border: none;
+    font-size: 16px;
+    line-height: 140%;
+    background-color: #2F2F2F;
+    color: white;
+    cursor: pointer;
+}
+
+.button-primary {
+    background-color: #EA6E20;
+    margin-right: 15px;
+}
+
+.button-text {
+    margin-left: 10px;
+    vertical-align: text-bottom;
+}
