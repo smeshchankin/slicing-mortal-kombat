@@ -13,6 +13,7 @@ a {
 }
 
 .header {
+    width: 90%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -48,6 +49,7 @@ a {
 }
 
 .film {
+    width: 90%;
     max-width: 1146px;
     margin: auto;
     padding: 7% 0;
