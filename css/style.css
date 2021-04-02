@@ -104,7 +104,7 @@ a {
     vertical-align: text-bottom;
 }
 
-@media(max-width: 120px) {
+@media(max-width: 1200px) {
     .app {
         background-size: 50%;
     }
