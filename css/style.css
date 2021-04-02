@@ -103,3 +103,9 @@ a {
     margin-left: 10px;
     vertical-align: text-bottom;
 }
+
+@media(max-width: 120px) {
+    .app {
+        background-size: 50%;
+    }
+}
