@@ -109,3 +109,21 @@ a {
         background-size: 50%;
     }
 }
+
+@media(max-width: 768px) {
+    .app {
+        height: auto;
+        padding-bottom: 400px;
+        background-position: bottom center;
+    }
+    .film {
+        padding-top: 2%;
+    }
+    .description {
+        font-size: 16px;
+        max-width: 333px;
+    }
+    .film-logo {
+        max-width: 100%;
+    }
+}
