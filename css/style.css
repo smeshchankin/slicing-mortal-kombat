@@ -57,6 +57,7 @@ a {
 
 .tags {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     align-items: flex-start;
     opacity: 0.4;
@@ -67,6 +68,7 @@ a {
 
 .tags > * {
     margin-right: 15px;
+    margin-bottom: 10px;
 }
 
 .age {
