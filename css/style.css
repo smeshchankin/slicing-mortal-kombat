@@ -138,7 +138,10 @@ a {
         display: none;
     }
     .app {
-        padding-bottom: 250px;
-        background-size: contain;
+        padding-bottom: 350px;
+        background-size: 300px;
+    }
+    .button {
+        margin-bottom: 10px;
     }
 }
