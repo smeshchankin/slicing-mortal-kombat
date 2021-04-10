@@ -104,12 +104,6 @@ a {
     vertical-align: text-bottom;
 }
 
-@media(max-width: 1200px) {
-    .app {
-        background-size: 50%;
-    }
-}
-
 @media(max-width: 768px) {
     .app {
         height: auto;
