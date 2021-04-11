@@ -108,7 +108,10 @@ a {
     .app {
         height: auto;
         padding-bottom: 400px;
-        background-position: bottom center;
+        background: url('../img/cover.jpg') no-repeat bottom center / 300px;
+    }
+    .video{
+        display: none;
     }
     .film {
         padding-top: 2%;
