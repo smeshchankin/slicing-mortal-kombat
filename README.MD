@@ -1,5 +1,5 @@
 # Slicing Mortal Kombat (2021)
-[Open GtHub Pages](http://smeshchankin.github.io/slicing-mortal-kombat)
+[Open GitHub Pages](http://smeshchankin.github.io/slicing-mortal-kombat)
 
 Project Technologies:
 * HTML 5
